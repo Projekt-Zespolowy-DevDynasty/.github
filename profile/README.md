@@ -1,0 +1,1 @@
+Repozytoria do projektu zespołowego
