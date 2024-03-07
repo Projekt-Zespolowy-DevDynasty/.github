@@ -1,2 +1,2 @@
 Repozytoria do projektu zespołowego
-# Kanban board
+- Kanban board
